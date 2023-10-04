@@ -1,0 +1,5 @@
+.text {
+  margin-bottom: var(--spacing-medium);
+  margin-top: var(--spacing-medium);
+  font-size: 15px;
+}
